@@ -1,1 +1,1 @@
-Worker: node ./star.bat
+Worker: node ./start.bat
