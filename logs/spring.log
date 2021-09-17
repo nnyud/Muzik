@@ -121,3 +121,27 @@ Identify and stop the process that's listening on port 2333 or configure this ap
 
 2021-09-17 16:07:35.128  INFO 5848 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
 2021-09-17 16:07:35.131  INFO 5848 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2021-09-17 16:53:48.691  INFO 6072 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        44fcfdf945fc6cd9ce6c96480d3b7dc098897a51-SNAPSHOT
+	Build:          Unofficial
+	Build time:     01.04.2021 09:53:06 UTC
+	Branch          dev
+	Commit:         44fcfdf
+	Commit time:    01.04.2021 08:19:05 UTC
+	JVM:            16.0.2
+	Lavaplayer      1.3.74
+
+2021-09-17 16:53:48.835  INFO 6072 --- [main] lavalink.server.Launcher                 : Starting Launcher on LAPTOP-50NB5OKU with PID 6072 (C:\Users\Maxsys\Documents\GitHub\Muzik\Lavalink.jar started by Maxsys in C:\Users\Maxsys\Documents\GitHub\Muzik)
+2021-09-17 16:53:48.836  INFO 6072 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2021-09-17 16:53:49.077  WARN 6072 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2021-09-17 16:53:51.367  WARN 6072 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-09-17 16:53:51.406  INFO 6072 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2021-09-17 16:53:51.406  INFO 6072 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2442 ms
